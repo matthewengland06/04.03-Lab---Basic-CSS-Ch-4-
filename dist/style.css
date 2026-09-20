@@ -1,29 +1,29 @@
+img {
+  width: 300px;
+}
+
 h1{
-  border-color: #d3e644;
-  border-style: dashed;
+ padding: 5px;
+ font-family: arial;
+ font-size: 24px;
+ color: white;
+ background-color: red;
 }
 
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin-bottom: 20px;
+#author-name-date {
+  font-family: arial;
+  font-size: 12px;
+  color: gray;
 }
 
-th, td {
-  padding: 12px 15px;
-  text-align: left;
-  border-bottom: 1px solid #ddd;
+p, ol {
+  font-family: 'Times New Roman';
+  font-size: 16px;
+  color: darkslategray;
 }
 
-th {
-  background-color: #f2f2f2;
-  font-weight: bold;
-}
-
-tbody tr:nth-child(even) {
-  background-color: #f9f9f9;
-}
-
-tbody tr:hover {
-  background-color: #e9e9e9;
+a {
+  font-family: arial;
+  font-size: 12px;
+  color: blue;
 }
